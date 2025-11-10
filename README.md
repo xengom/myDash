@@ -2,7 +2,7 @@
 
 터미널 기반의 개인 대시보드 애플리케이션입니다. 주식 포트폴리오 관리, 시스템 모니터링, 날씨 정보를 하나의 화면에서 확인할 수 있습니다.
 
-![myDash](./docs/screenshot.png)
+![myDash](./docs/screenshot.svg)
 
 ## 주요 기능
 
